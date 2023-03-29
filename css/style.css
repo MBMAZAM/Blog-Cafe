@@ -269,3 +269,9 @@ img {
     font-size: 2rem;
 }
 
+
+/** ENTRADA **/
+
+.entrada__imagen {
+    max-width: 100%;
+}
