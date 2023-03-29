@@ -269,9 +269,11 @@ img {
     font-size: 2rem;
 }
 
+/** CONTACTO **/
 
-/** ENTRADA **/
-
-.entrada__imagen {
-    max-width: 100%;
+.contacto-bg {
+    background-image: url(../img/contacto.jpg);
+    height: 40rem;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
