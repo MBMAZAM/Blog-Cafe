@@ -318,3 +318,15 @@ img {
 .campo__field--textarea {
     height: 20rem;
 }
+
+/** Para hacer Scroll **/
+
+/* .scroll-container {
+    height: 200px;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+}
+
+.scroll-here {
+    scroll-snap-align: start;
+} */
